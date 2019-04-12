@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-CA"
-title                    : "Dr. Scott Bateman"
+title                    : "Scott Bateman"
 title_separator          : "-"
 name                     : &name "Dr. Scott Bateman"
 description              : &description "Assistant Professor at University of New Brunswick"
@@ -32,7 +32,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
+  branch                 : "master" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Scott Bateman"
-  avatar           : "profile.png"
+  avatar           : "scott.jpg"
   bio              : "Researcher in Human-Computer Interaction: collaboration, mixed-reality, games/play, health and other stuff."
   location         : "Fredericton, NB"
-  employer         : "Faculty of Computer Science, University of New Brunswick"
+  employer         : "University of New Brunswick"
   pubmed           : 
   googlescholar    : "https://scholar.google.ca/citations?user=DV8i83MAAAAJ&hl=en&oi=ao"
   email            :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "scottbateman"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
