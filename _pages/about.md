@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Scott Bateman
+title: "About Scott Bateman"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
