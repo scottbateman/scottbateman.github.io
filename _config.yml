@@ -9,7 +9,7 @@
 locale                   : "en-CA"
 title                    : "Scott Bateman"
 title_separator          : "-"
-name                     : &name "Dr. Scott Bateman"
+name                     : &name "Scott Bateman"
 description              : &description "Assistant Professor at University of New Brunswick"
 url                      : https://scottbateman.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
