@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Scott Bateman"
   avatar           : "scott.jpg"
-  bio              : "Researcher in Human-Computer Interaction: collaboration, mixed-reality, games/play, health and other stuff."
+  bio              : "Researcher in Human-Computer Interaction: collaboration, mixed reality, games/play, health technologies and other stuff."
   location         : "Fredericton, NB"
   employer         : "University of New Brunswick"
   pubmed           : 
   googlescholar    : "https://scholar.google.ca/citations?user=DV8i83MAAAAJ&hl=en&oi=ao"
-  email            :
+  email            : "scottb@unb.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
