@@ -85,8 +85,8 @@ author:
   name             : "Scott Bateman"
   avatar           : "scott.png"
   bio              : "Researcher in Human-Computer Interaction: collaboration, mixed reality, games/play, health technologies and other stuff."
-  location         : "Fredericton, NB"
-  employer         : "University of New Brunswick"
+  location         :
+  employer         : "University of New Brunswick, Fredericton"
   pubmed           :
   googlescholar    : "https://scholar.google.ca/citations?user=DV8i83MAAAAJ&hl=en&oi=ao"
   email            : "scottb@unb.ca"
