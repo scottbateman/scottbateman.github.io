@@ -1,2 +1,7 @@
-_site/
+# Node
+node_modules
 
+# Ruby
+Gemfile.lock
+
+_site/

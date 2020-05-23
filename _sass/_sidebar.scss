@@ -87,7 +87,6 @@
 
     @include breakpoint($large) {
       padding: 5px;
-      border: 1px solid $border-color;
     }
   }
 }
@@ -117,11 +116,12 @@
 }
 .sidebar .author__name {
   font-family: $sans-serif;
-  font-size: $type-size-5;
+  font-size: $type-size-6;
 }
 
 .author__bio {
   margin: 0;
+  text-align: center;
 
   @include breakpoint($large) {
     margin-top: 10px;
@@ -216,7 +216,20 @@
   }
 
   li {
-    white-space: nowrap;
+    display: flex;
+    white-space: break-spaces;
+    align-items: flex-start;
+    margin-bottom: 16px;
+    min-height: 28px;
+  }
+
+  img {
+    width: auto;
+    margin-right: 8px;
+  }
+
+  p, a {
+    margin: 0;
   }
 
   a {

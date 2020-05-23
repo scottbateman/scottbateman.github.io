@@ -6,8 +6,6 @@ main:
   #- title: "Talks"
   #  url: /talks/    
 
-#   - title: "Teaching"
-#     url: /teaching/    
     
 #   - title: "Portfolio"
 #     url: /portfolio/
@@ -15,8 +13,12 @@ main:
 #   - title: "Blog Posts"
 #     url: /year-archive/
     
-  - title: "CV"
+  - title: "Curriculum Vitae"
     url: /cv/
+  - title: "Teaching"
+    url: /teaching/    
+  - title: "HCI Lab"
+    url: https://hcilab.github.io/
     
 #   - title: "Guide"
 #     url: /markdown/

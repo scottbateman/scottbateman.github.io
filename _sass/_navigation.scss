@@ -212,7 +212,15 @@
         font-weight: bold;
 
         a {
-          margin-left: 0;
+          margin-left: 26px;
+          margin-right: 60px;
+        }
+
+        @include breakpoint($medium) {
+          a {
+            margin-left: 13px;
+            margin-right: -4px;
+          }
         }
       }
 
