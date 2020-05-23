@@ -22,26 +22,22 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  margin: 2em 0 0.5em;
+  margin: 0 0 0.5em 0;
   line-height: 1.2;
   font-family: $header-font-family;
   font-weight: bold;
 }
 
 h1 {
-  margin-top: 0;
   font-size: $type-size-3;
 }
 
 h2 {
   font-size: $type-size-4;
-  margin-top: 0;
 }
 
 h3 {
   font-size: $type-size-5;
-  margin-top: 0;
-  margin-bottom: 30px;
 }
 
 h4 {
@@ -62,6 +58,7 @@ small, .small {
 
 p {
   margin-bottom: 1.3em;
+  margin-top: 0;
 }
 
 u,
@@ -167,12 +164,16 @@ hr {
 
 ul li,
 ol li {
-  margin-bottom: 0.5em;
+  margin-bottom: 0;
 }
 
 li ul,
 li ol {
-  margin-top: 0.5em;
+  margin-top: 0em;
+}
+ul{
+  margin-top: 0em;
+  margin-bottom: 2em;
 }
 
 /*

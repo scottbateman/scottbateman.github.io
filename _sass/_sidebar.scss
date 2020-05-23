@@ -38,9 +38,15 @@
     font-size: $type-size-5;
   }
 
-  p, li {
+  p {
     font-family: $sans-serif;
     font-size: $type-size-6;
+    font-style: italic;
+    line-height: 1.5;
+  }
+  li {
+    font-family: $sans-serif;
+    font-size: $type-size-7;
     line-height: 1.5;
   }
 
@@ -83,7 +89,6 @@
 
   img {
     max-width: 175px;
-    border-radius: 50%;
 
     @include breakpoint($large) {
       padding: 5px;
@@ -161,7 +166,7 @@
   display: none;
   position: absolute;
   right: 0;
-  margin-top: 15px;
+  margin-top: 0px;
   padding: 10px;
   list-style-type: none;
   border: 1px solid $border-color;
@@ -219,13 +224,14 @@
     display: flex;
     white-space: break-spaces;
     align-items: flex-start;
-    margin-bottom: 16px;
+    margin-bottom: 6px;
     min-height: 28px;
   }
 
   img {
     width: auto;
     margin-right: 8px;
+    vertical-align: top;
   }
 
   p, a {
@@ -239,7 +245,7 @@
     padding-top: 2px;
     padding-bottom: 2px;
     color: inherit;
-    font-size: $type-size-5;
+    font-size: $type-size-7;
     text-decoration: none;
 
     &:hover {

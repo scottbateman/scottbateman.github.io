@@ -35,7 +35,6 @@
 }
 
 .masthead__menu {
-
   ul {
     margin: 0;
     padding: 0;
@@ -48,6 +47,7 @@
   display: block;
   list-style-type: none;
   white-space: nowrap;
+  text-transform: uppercase;
 
   &--lg {
     padding-right: 2em;
@@ -55,6 +55,6 @@
   }
 
   &--title {
-    text-transform: uppercase;
+	padding-right: 80px;
   }
 }

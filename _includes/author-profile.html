@@ -22,10 +22,7 @@
     <button class="btn btn--inverse">Follow</button>
     <ul class="author__urls social-icons">
       {% if author.employer %}
-        <li>
-            <img src="/images/location.svg" alt="location">
-            <p>{{ author.employer }}</p>
-        </li>
+        <li><a href="https://goo.gl/maps/ragLyT6n6QYCcNmC7"><img src="/images/location.svg" alt="location">{{ author.employer }}</a></li>
       {% endif %}
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-link" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
