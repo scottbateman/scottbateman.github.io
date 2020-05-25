@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 {% include base_path %}
+# Teaching
 
 ## Current & Upcoming Teaching 
 * CS2053 Introduction to Game Development (Winter 2021)
