@@ -24,4 +24,4 @@ I joined UNB in 2015, after 2.5 years at the University of Prince Edward Island.
 - Serious Games 
 
 ## Work with me
-I am interested in working with working with students from a wide range of backgrounds, who share interests with me, and are highly motivated to learn about research. If you are interested in working with me or finding out more, then please see the [instructions on the HCI Lab's site](http://hcilab.github.io/join-us).
+I am interested in working with students from a wide range of backgrounds, who share interests with me, and are highly motivated to learn about research. If you are interested in working with me or finding out more, then please see the [instructions on the HCI Lab's site](http://hcilab.github.io/join-us).
