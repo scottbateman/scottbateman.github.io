@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
 # CV
+A complete CV can be downloaded [here](/files/ScottBatemanCV.pdf).
 
 ## Education
 * B.Sc. in Computer Science, University of Prince Edward Island, 2001
