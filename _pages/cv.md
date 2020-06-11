@@ -9,14 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+# CV
+A complete CV can be downloaded [here](/files/ScottBatemanCV.pdf).
+
+## Education
 * B.Sc. in Computer Science, University of Prince Edward Island, 2001
 * M.Sc. in Computer Science, University of Saskatchewan, 2007
 * Ph.D in Computer Science, University of Saskatchewan, 2012
 
-Work experience
-======
+## Work experience
 * 2019-: Associate Professor
   * University of New Brunswick
 

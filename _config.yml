@@ -84,9 +84,9 @@ author:
   last_name        : "Bateman"
   name             : "Scott Bateman"
   avatar           : "scott.png"
-  bio              : "Researcher in Human-Computer Interaction: collaboration, mixed reality, games/play, health technologies and other stuff."
+  bio              : "Researcher in Human-Computer Interaction: collaboration, mixed reality, games/play."
   location         :
-  employer         : "University of New Brunswick, Fredericton"
+  employer         : "Univ. of New Brunswick"
   pubmed           :
   googlescholar    : "https://scholar.google.ca/citations?user=DV8i83MAAAAJ&hl=en&oi=ao"
   email            : "scottb@unb.ca"
@@ -256,7 +256,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Halifax # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

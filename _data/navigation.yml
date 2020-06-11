@@ -1,11 +1,13 @@
 # main links links
 main:
+  - title: "HCI Lab"
+    url: https://hcilab.github.io/
+    
   - title: "Publications"
     url: /publications/
 
   #- title: "Talks"
   #  url: /talks/    
-
     
 #   - title: "Portfolio"
 #     url: /portfolio/
@@ -17,8 +19,5 @@ main:
     url: /cv/
   - title: "Teaching"
     url: /teaching/    
-  - title: "HCI Lab"
-    url: https://hcilab.github.io/
-    
 #   - title: "Guide"
 #     url: /markdown/

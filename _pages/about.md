@@ -3,22 +3,25 @@ layout: archive
 permalink: /
 
 # Page Title
-title: "About"
+title: ""
 
-excerpt: "About me"
+excerpt: "About Scott"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-### About Scott Bateman.
+**I am an Associate Professor in Computer Science and I direct the [Human-Computer Interaction Lab](htps://hci.cs.unb.ca)**, at the [University of New Brunswick](https://www.unb.ca), in [Fredericton, Canada](https://en.wikipedia.org/wiki/Fredericton). My research focuses on enabling people to work and play together in new ways, so that we can learn from each other and lead healthier, happier lives. My group's work has included research into mixed reality, game design, computer supported cooperative work, novel interactions, visualization, and serious games for learning and health. 
 
-Dr. Scott Bateman is the director of the Human-Computer Interaction Lab, where his research is motivated by designing and building technology that works best for people. His work focuses on novel input interactions, visual analytics, computer-based collaboration, and games for learning and health. He joined UNB in the summer of 2015, after 2.5 years as at the University of Prince Edward Island. He received a PhD and Master’s in Computer Science from the University of Saskatchewan, and has worked as a researcher with Microsoft Research, IBM Watson Research, the University of Calgary and the National College of Ireland. Dr. Bateman has been an Associate Editor for several leading international journals and conferences. A frequent collaborator with industry, the HCI Lab has ongoing collaborations with several companies, and has completed several industry R+D projects supported by NBIF, NSERC and NRC.
+I joined UNB in 2015, after 2.5 years at the University of Prince Edward Island. I received a PhD and Master’s in Computer Science from the University of Saskatchewan, and have worked as a researcher with Microsoft Research, IBM Watson Research, the University of Calgary and the National College of Ireland.  
 
-### Research Interest.
-
+## Research Interest
 - Human-Computer Interaction
-- Information Visualization and Visual Analytics
-- Computer Supported Collaboration
-- Games and Gamification
+- Mixed Reality
+- Games and Play
+- Computer Supported Cooperative Work
+- Serious Games 
+
+## Work with me
+I am interested in working with students from a wide range of backgrounds, who share interests with me, and are highly motivated to learn about research. If you are interested in working with me or finding out more, then please see the [instructions on the HCI Lab's site](http://hcilab.github.io/join-us).
