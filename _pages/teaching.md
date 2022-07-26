@@ -9,10 +9,9 @@ author_profile: true
 # Teaching
 
 ## Current & Upcoming Teaching 
-* CS3035 Building User Interfaces (Fall 2020)
-* CS6905 Mixed Reality (Fall 2020)
-* CS2053 Introduction to Game Development (Winter 2021)
-* CS4065/6065 Interactive Human-Centered Systems (Winter 2021)
+* CS3035 Building User Interfaces (Fall 2022)
+* CS2053 Introduction to Game Development (Winter 2023)
+* CS6905 Mixed Reality (Winter 2023)
 
 ## Past Teaching
 * CS1073 Introduction to Computer Programing I
