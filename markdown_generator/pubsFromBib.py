@@ -34,14 +34,14 @@ publist = {
                         "permalink":"/publication/"}
         
     }
-    #,
-    #"journal":{
-    #    "file": "pubs.bib",
-    #    "venuekey" : "journal",
-    #    "venue-pretext" : "",
-    #    "collection" : {"name":"publications",
-    #                    "permalink":"/publication/"}
-    #} 
+    ,
+    "journal":{
+        "file": "proceedings.bib",
+        "venuekey" : "journal",
+        "venue-pretext" : "",
+        "collection" : {"name":"publications",
+                        "permalink":"/publication/"}
+    } 
 }
 
 html_escape_table = {
@@ -67,6 +67,7 @@ for pubsource in publist:
         pub_day = "01"
         
         b = bibdata.entries[bib_id].fields
+        print(bibdata.entries[bib_id].type)
         
         try:
             pub_year = f'{b["year"]}'
