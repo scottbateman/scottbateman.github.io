@@ -1,7 +1,10 @@
 # main links links
 main:
+  - title: "SPECTRAL"
+    url: https://unb.ca/spectral
+
   - title: "HCI Lab"
-    url: https://hcilab.github.io/
+    url: https://hcilab.github.io/  
     
   - title: "Publications"
     url: /publications/
@@ -17,6 +20,7 @@ main:
     
   - title: "Curriculum Vitae"
     url: /cv/
+    
   - title: "Teaching"
     url: /teaching/    
 #   - title: "Guide"
