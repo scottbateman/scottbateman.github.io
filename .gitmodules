@@ -1,0 +1,3 @@
+[submodule "chi-play-lecture"]
+	path = chi-play-lecture
+	url = https://github.com/scottbateman/chi-play-lecture.git
