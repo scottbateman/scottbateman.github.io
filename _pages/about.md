@@ -16,6 +16,8 @@ redirect_from:
 
 I am the Scientific Director of [RIDSAI (the Research Institute for Data Science and AI)](https://unb.ca/ridsai/), the Director of [SPECTRAL (the Spatial Computing Research Centre](https://unb.ca/spectral), the Director of the [Human-Computer Interaction Lab](htps://hci.cs.unb.ca), and an Affiliate Member of the [Institute of Biomedical Engineering](https://www.unb.ca/ibme/)**, at the [University of New Brunswick](https://www.unb.ca), in [Fredericton, Canada](https://en.wikipedia.org/wiki/Fredericton). 
 
+Recently, I have been a Visiting Professor at the [School of Computing and Information Systems, Singapore Management University](https://computing.smu.edu.sg/), and the [Loki Group with INRIA and the Université de Lille](https://loki.lille.inria.fr/). 
+
 I joined UNB in 2015, after 2.5 years as an Assistant Professor at the University of Prince Edward Island. I received a PhD and Master’s in Computer Science from the University of Saskatchewan, and have worked as a researcher with Microsoft Research, IBM Watson Research, the University of Calgary and the National College of Ireland. 
 
 ## Research Interest
