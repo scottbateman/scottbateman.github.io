@@ -18,7 +18,14 @@ A complete CV can be downloaded [here](/files/ScottBatemanCV.pdf).
 * Ph.D in Computer Science, University of Saskatchewan, 2012
 
 ## Work experience
-* 2019-: Associate Professor (tenured since 2021)
+* 2025 - present: Professor
+  * University of New Brunswick
+ 
+* 2024 - present: Scientific Director, Data Science and Artificial Intelligence Research Institute (DAIR@UNB)
+    
+* 2023- present: Director, SPECTRAL Spatial Computing Research Centre
+    
+* 2019-2025: Associate Professor (tenured since 2021)
   * University of New Brunswick
 
 * 2022 (Aug-Dec): Acting Assistant Dean Research and Director of Graduate Studies 
