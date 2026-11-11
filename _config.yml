@@ -11,7 +11,7 @@ title                    : "Scott Bateman"
 title_separator          : "-"
 name                     : &name "Scott Bateman"
 description              : &description "Professor at University of New Brunswick"
-url                      : https://scottbateman.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://scottbateman.ca # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "scottbateman/scottbateman.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -32,7 +32,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "master" # "master", "gh-pages"
+  branch                 : "main" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
@@ -83,8 +83,8 @@ author:
   first_name       : "Scott"
   last_name        : "Bateman"
   name             : "Scott Bateman"
-  avatar           : "scott.png"
-  bio              : "Researcher in Human-Computer Interaction: collaboration, mixed reality, games/play."
+  avatar           : "scott-2026.png"
+  bio              : "Professor of Computer Science. HCI researcher: mixed reality, games/play, collaboration, health."
   location         :
   employer         : "Univ. of New Brunswick"
   pubmed           :
@@ -105,7 +105,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "scottbateman"
-  orcid            : #https://orcid.org/0000-0003-3592-2163
+  orcid            : "https://orcid.org/0000-0003-3592-2163"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

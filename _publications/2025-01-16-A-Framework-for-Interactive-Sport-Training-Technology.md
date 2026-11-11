@@ -1,0 +1,10 @@
+---
+title: "A Framework for Interactive Sport Training Technology"
+collection: publications
+permalink: /publication/2025-01-16-A-Framework-for-Interactive-Sport-Training-Technology
+date: 2025-01-16
+venue: 'Foundations and Trends® in Human–Computer Interaction'
+paperurl: 'https://doi.org/10.1561/1100000096'
+citation: ' Ian Smith,  Erik Scheme,  Scott Bateman, &quot;A Framework for Interactive Sport Training Technology.&quot; Foundations and Trends® in Human–Computer Interaction, 2025.'
+---
+Use [Google Scholar](https://scholar.google.com/scholar?q=A+Framework+for+Interactive+Sport+Training+Technology){:target="_blank"} for full citation
