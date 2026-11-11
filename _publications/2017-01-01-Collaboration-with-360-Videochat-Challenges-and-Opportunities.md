@@ -9,5 +9,6 @@ pubtype: 'conference'
 venue_short: 'DIS 2017'
 authors: 'Tang, A., Fakourfar, O., Neustaedter, C. & Bateman, S.'
 doi: 'https://doi.org/10.1145/3064663.3064707'
+thumbnail: '/images/pubs/2017-01-01-Collaboration-with-360-Videochat-Challenges-and-Opportunities.jpg'
 ---
 Use [Google Scholar](https://scholar.google.com/scholar?q=Collaboration+with+360°+Videochat:+Challenges+and+Opportunities){:target="_blank"} for full citation

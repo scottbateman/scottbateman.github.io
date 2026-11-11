@@ -9,5 +9,6 @@ pubtype: 'conference'
 venue_short: 'ICSC 2008'
 authors: 'Torniai, C., Jovanovic, J., Bateman, S., Gasevic, D. & Hatala, M.'
 doi: 'https://doi.org/10.1109/icsc.2008.15'
+thumbnail: '/images/pubs/2008-01-01-Leveraging-folksonomies-for-ontology-evolution-in-e-learning-environments.jpg'
 ---
 Use [Google Scholar](https://scholar.google.com/scholar?q=Leveraging+folksonomies+for+ontology+evolution+in+e+learning+environments){:target="_blank"} for full citation

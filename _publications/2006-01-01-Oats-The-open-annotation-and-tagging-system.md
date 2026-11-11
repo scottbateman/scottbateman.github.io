@@ -8,5 +8,6 @@ citation: ' Scott Bateman,  Rosta Farzan,  Peter Brusilovsky,  Gord McCalla, &qu
 pubtype: 'conference'
 venue_short: 'LORN 2006A'
 authors: 'Bateman, S., Farzan, R., Brusilovsky, P. & McCalla, G.'
+thumbnail: '/images/pubs/2006-01-01-Oats-The-open-annotation-and-tagging-system.jpg'
 ---
 Use [Google Scholar](https://scholar.google.com/scholar?q=Oats:+The+open+annotation+and+tagging+system){:target="_blank"} for full citation

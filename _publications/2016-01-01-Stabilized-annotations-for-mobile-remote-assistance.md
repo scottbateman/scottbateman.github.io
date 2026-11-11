@@ -9,5 +9,6 @@ pubtype: 'conference'
 venue_short: 'CHI 2016'
 authors: 'Fakourfar, O., Ta, K., Tang, R., Bateman, S. & Tang, A.'
 doi: 'https://doi.org/10.1145/2858036.2858171'
+thumbnail: '/images/pubs/2016-01-01-Stabilized-annotations-for-mobile-remote-assistance.jpg'
 ---
 Use [Google Scholar](https://scholar.google.com/scholar?q=Stabilized+annotations+for+mobile+remote+assistance){:target="_blank"} for full citation

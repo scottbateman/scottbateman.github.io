@@ -9,5 +9,6 @@ pubtype: 'journal'
 venue_short: 'TVCG 2015'
 authors: 'Huang, D., Tory, M., Aseniero, B., Bartram, L., Bateman, S., Carpendale, S., Tang, A. & Woodbury, R.'
 doi: 'https://doi.org/10.1109/TVCG.2014.2359887'
+thumbnail: '/images/pubs/2015-01-01-Personal-visualization-and-personal-visual-analytics.jpg'
 ---
 Use [Google Scholar](https://scholar.google.com/scholar?q=Personal+visualization+and+personal+visual+analytics){:target="_blank"} for full citation

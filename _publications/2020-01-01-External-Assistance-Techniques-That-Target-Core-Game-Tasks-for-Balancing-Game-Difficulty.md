@@ -9,5 +9,6 @@ pubtype: 'journal'
 venue_short: 'FRONTIERS 2020'
 authors: 'Refai, J., Bateman, S. & Fleming, M.'
 doi: 'https://doi.org/10.3389/fcomp.2020.00017'
+thumbnail: '/images/pubs/2020-01-01-External-Assistance-Techniques-That-Target-Core-Game-Tasks-for-Balancing-Game-Difficulty.jpg'
 ---
 Use [Google Scholar](https://scholar.google.com/scholar?q=External+Assistance+Techniques+That+Target+Core+Game+Tasks+for+Balancing+Game+Difficulty){:target="_blank"} for full citation

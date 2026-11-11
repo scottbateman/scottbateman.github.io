@@ -9,5 +9,6 @@ pubtype: 'conference'
 venue_short: 'CHI 2010'
 authors: 'Bateman, S., Mandryk, R., Gutwin, C., Genest, A., McDine, D. & Brooks, C.'
 award: 'Best Paper Award (top 1% of submissions)'
+thumbnail: '/images/pubs/2010-01-01-Useful-junk-The-effects-of-visual-embellishment-on-comprehension-and-memorability-of-charts.jpg'
 ---
 Use [Google Scholar](https://scholar.google.com/scholar?q=Useful+junk?+The+effects+of+visual+embellishment+on+comprehension+and+memorability+of+charts){:target="_blank"} for full citation

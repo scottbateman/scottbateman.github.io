@@ -10,5 +10,6 @@ pubtype: 'journal'
 venue_short: 'F&T-HCI 2025'
 authors: 'Smith, I., Scheme, E. & Bateman, S.'
 doi: 'https://doi.org/10.1561/1100000096'
+thumbnail: '/images/pubs/2025-01-16-A-Framework-for-Interactive-Sport-Training-Technology.jpg'
 ---
 Use [Google Scholar](https://scholar.google.com/scholar?q=A+Framework+for+Interactive+Sport+Training+Technology){:target="_blank"} for full citation

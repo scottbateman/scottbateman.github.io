@@ -10,5 +10,6 @@ venue_short: 'CHI 2011'
 authors: 'Bateman, S., Mandryk, R., Stach, T. & Gutwin, C.'
 doi: 'https://doi.org/10.1145/1978942.1979287'
 award: 'Honorable Mention for Paper Award (top 5% of submissions)'
+thumbnail: '/images/pubs/2011-01-01-Target-assistance-for-subtly-balancing-competitive-play.jpg'
 ---
 Use [Google Scholar](https://scholar.google.com/scholar?q=Target+assistance+for+subtly+balancing+competitive+play){:target="_blank"} for full citation

@@ -10,5 +10,6 @@ pubtype: 'conference'
 venue_short: 'GI 2023'
 authors: 'Wilson, C., Rea, D. J. & Bateman, S.'
 doi: 'https://doi.org/10.48550/arxiv.2406.03241'
+thumbnail: '/images/pubs/2023-01-01-Temperature-Illusions-in-Mixed-Reality-using-Color-and-Dynamic-Graphics.jpg'
 ---
 Use [Google Scholar](https://scholar.google.com/scholar?q=Temperature+Illusions+in+Mixed+Reality+using+Color+and+Dynamic+Graphics){:target="_blank"} for full citation

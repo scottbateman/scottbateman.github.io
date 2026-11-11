@@ -8,5 +8,6 @@ citation: ' Scott Bateman,  Jaime Teevan,  Ryen White, &quot;The Search Dashboar
 pubtype: 'conference'
 venue_short: 'CHI 2012'
 authors: 'Bateman, S., Teevan, J. & White, R.'
+thumbnail: '/images/pubs/2012-01-01-The-Search-Dashboard-How-reflection-and-comparison-impact-search-behavior.jpg'
 ---
 Use [Google Scholar](https://scholar.google.com/scholar?q=The+Search+Dashboard:+How+reflection+and+comparison+impact+search+behavior){:target="_blank"} for full citation

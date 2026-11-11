@@ -9,5 +9,6 @@ pubtype: 'conference'
 venue_short: 'CHI 2014'
 authors: 'Vicencio-Moreira, R., Mandryk, R., Gutwin, C. & Bateman, S.'
 doi: 'https://doi.org/10.1145/2556288.2557308'
+thumbnail: '/images/pubs/2014-01-01-The-effectiveness-or-lack-thereof-of-aim-assist-techniques-in-first-person-shooter-games.jpg'
 ---
 Use [Google Scholar](https://scholar.google.com/scholar?q=The+effectiveness+(or+lack+thereof)+of+aim+assist+techniques+in+first+person+shooter+games){:target="_blank"} for full citation

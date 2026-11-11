@@ -8,5 +8,6 @@ citation: ' David Flatla,  Carl Gutwin,  Lennart Nacke,  Scott Bateman,  Regan M
 pubtype: 'conference'
 venue_short: 'UIST 2011'
 authors: 'Flatla, D., Gutwin, C., Nacke, L., Bateman, S. & Mandryk, R.'
+thumbnail: '/images/pubs/2011-01-01-Calibration-games-making-calibration-tasks-enjoyable-by-adding-motivating-game-elements.jpg'
 ---
 Use [Google Scholar](https://scholar.google.com/scholar?q=Calibration+games:+making+calibration+tasks+enjoyable+by+adding+motivating+game+elements){:target="_blank"} for full citation

@@ -8,5 +8,6 @@ citation: ' Aditya Nittala,  Xing-Dong Yang,  Scott Bateman,  Ehud Sharlin,  Sau
 pubtype: 'conference'
 venue_short: 'EICS 2015'
 authors: 'Nittala, A., Yang, X., Bateman, S., Sharlin, E. & Greenberg, S.'
+thumbnail: '/images/pubs/2015-01-01-PhoneEar-Interactions-for-Mobile-Devices-that-Hear-High-Frequency-Sound-Encoded-Data.jpg'
 ---
 Use [Google Scholar](https://scholar.google.com/scholar?q=PhoneEar:+Interactions+for+Mobile+Devices+that+Hear+High+Frequency+Sound+Encoded+Data){:target="_blank"} for full citation

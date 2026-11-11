@@ -8,5 +8,6 @@ citation: ' Scott Bateman,  Christopher Brooks,  Gord McCalla, &quot;Collaborati
 pubtype: 'conference'
 venue_short: 'AH 2006'
 authors: 'Bateman, S., Brooks, C. & McCalla, G.'
+thumbnail: '/images/pubs/2006-01-01-Collaborative-tagging-approaches-for-ontological-metadata-in-adaptive-e-learning-systems.jpg'
 ---
 Use [Google Scholar](https://scholar.google.com/scholar?q=Collaborative+tagging+approaches+for+ontological+metadata+in+adaptive+e+learning+systems){:target="_blank"} for full citation

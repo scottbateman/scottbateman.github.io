@@ -9,5 +9,6 @@ pubtype: 'conference'
 venue_short: 'CSCW 2017'
 authors: 'Gutwin, C., Bateman, S., Arora, G. & Coveney, A.'
 doi: 'https://doi.org/10.1145/2998181.2998226'
+thumbnail: '/images/pubs/2017-01-01-Looking-Away-and-Catching-Up-Dealing-with-Brief-Attentional-Disconnection-in-Synchronous-Groupware.jpg'
 ---
 Use [Google Scholar](https://scholar.google.com/scholar?q=Looking+Away+and+Catching+Up:+Dealing+with+Brief+Attentional+Disconnection+in+Synchronous+Groupware){:target="_blank"} for full citation

@@ -9,5 +9,6 @@ pubtype: 'conference'
 venue_short: 'CHI 2015A'
 authors: 'Jones, B., Witcraft, A., Bateman, S., Neustaedter, C. & Tang, A.'
 doi: 'https://doi.org/10.1145/2702123.2702345'
+thumbnail: '/images/pubs/2015-01-01-Mechanics-of-Camera-Work-in-Mobile-Video-Collaboration.jpg'
 ---
 Use [Google Scholar](https://scholar.google.com/scholar?q=Mechanics+of+Camera+Work+in+Mobile+Video+Collaboration){:target="_blank"} for full citation

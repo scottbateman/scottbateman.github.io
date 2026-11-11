@@ -9,5 +9,6 @@ pubtype: 'conference'
 venue_short: 'EICS 2009'
 authors: 'Bateman, S., Gutwin, C., Osgood, N. & McCalla, G.'
 doi: 'https://doi.org/10.1145/1570433.1570443'
+thumbnail: '/images/pubs/2009-01-01-Interactive-usability-instrumentation.jpg'
 ---
 Use [Google Scholar](https://scholar.google.com/scholar?q=Interactive+usability+instrumentation){:target="_blank"} for full citation

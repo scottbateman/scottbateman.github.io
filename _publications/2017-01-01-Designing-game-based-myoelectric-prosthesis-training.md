@@ -9,5 +9,6 @@ pubtype: 'conference'
 venue_short: 'CHI 2017A'
 authors: 'Tabor, A., Bateman, S., Scheme, E., Flatla, D. & Gerling, K.'
 doi: 'https://doi.org/10.1145/3025453.3025676'
+thumbnail: '/images/pubs/2017-01-01-Designing-game-based-myoelectric-prosthesis-training.jpg'
 ---
 Use [Google Scholar](https://scholar.google.com/scholar?q=Designing+game+based+myoelectric+prosthesis+training){:target="_blank"} for full citation

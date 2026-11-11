@@ -10,5 +10,6 @@ pubtype: 'conference'
 venue_short: 'CHI 2026C'
 authors: 'Smith, I., Scheme, E. & Bateman, S.'
 doi: 'https://doi.org/10.1145/3772318.3791286'
+thumbnail: '/images/pubs/2026-04-13-Comparing-Scoring-Mechanics-for-Encouraging-Technique-Adoption-in-a-Sport-Training-Game.jpg'
 ---
 Use [Google Scholar](https://scholar.google.com/scholar?q=Comparing+Scoring+Mechanics+for+Encouraging+Technique+Adoption+in+a+Sport+Training+Game){:target="_blank"} for full citation

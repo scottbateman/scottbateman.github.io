@@ -9,5 +9,6 @@ pubtype: 'journal'
 venue_short: 'FRONTIERS 2021'
 authors: 'Pradantyo, R., Birk, M. & Bateman, S.'
 doi: 'https://doi.org/10.3389/fcomp.2021.531713'
+thumbnail: '/images/pubs/2021-01-01-How-the-Visual-Design-of-Video-Game-Antagonists-Affects-Perception-of-Morality.jpg'
 ---
 Use [Google Scholar](https://scholar.google.com/scholar?q=How+the+Visual+Design+of+Video+Game+Antagonists+Affects+Perception+of+Morality){:target="_blank"} for full citation

@@ -10,5 +10,6 @@ pubtype: 'journal'
 venue_short: 'FRONTIERS 2022'
 authors: 'Tabor, A., Bateman, S., Scheme, E. & schraefel, m.c.'
 doi: 'https://doi.org/10.3389/fcomp.2022.926649'
+thumbnail: '/images/pubs/2022-11-30-Comparing-heart-rate-variability-biofeedback-and-simple-paced-breathing-to-inform-the-design-of-guided-breathing-technologies.jpg'
 ---
 Use [Google Scholar](https://scholar.google.com/scholar?q=Comparing+heart+rate+variability+biofeedback+and+simple+paced+breathing+to+inform+the+design+of+guided+breathing+technologies){:target="_blank"} for full citation

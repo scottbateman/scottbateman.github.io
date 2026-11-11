@@ -9,5 +9,6 @@ pubtype: 'conference'
 venue_short: 'CHI 2018'
 authors: 'Wuertz, J., Alharthi, S., Hamilton, W., Bateman, S., Gutwin, C., Tang, A., Toups, Z. & Hammer, J.'
 doi: 'https://doi.org/10.1145/3173574.3173817'
+thumbnail: '/images/pubs/2018-01-01-A-design-framework-for-awareness-cues-in-distributed-multiplayer-games.jpg'
 ---
 Use [Google Scholar](https://scholar.google.com/scholar?q=A+design+framework+for+awareness+cues+in+distributed+multiplayer+games){:target="_blank"} for full citation

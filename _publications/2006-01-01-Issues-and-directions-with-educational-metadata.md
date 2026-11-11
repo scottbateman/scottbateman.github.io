@@ -8,5 +8,6 @@ citation: ' Christopher Brooks,  Scott Bateman,  Wengang Liu,  Gordon McCalla,  
 pubtype: 'conference'
 venue_short: 'LORN 2006B'
 authors: 'Brooks, C., Bateman, S., Liu, W., McCalla, G., Greer, J., Gasevic, D., Eap, T., Richards, G., Hammouda, K. & Shehata, S.'
+thumbnail: '/images/pubs/2006-01-01-Issues-and-directions-with-educational-metadata.jpg'
 ---
 Use [Google Scholar](https://scholar.google.com/scholar?q=Issues+and+directions+with+educational+metadata){:target="_blank"} for full citation

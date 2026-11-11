@@ -8,5 +8,6 @@ citation: ' Aaron Tabor,  Wendy Hill,  Scott Bateman,  Erik Scheme, &quot;Quanti
 pubtype: 'conference'
 venue_short: 'MEC 2017'
 authors: 'Tabor, A., Hill, W., Bateman, S. & Scheme, E.'
+thumbnail: '/images/pubs/2017-01-01-Quantifying-Muscle-Control-in-Myoelectric-Training-Games.jpg'
 ---
 Use [Google Scholar](https://scholar.google.com/scholar?q=Quantifying+Muscle+Control+in+Myoelectric+Training+Games){:target="_blank"} for full citation

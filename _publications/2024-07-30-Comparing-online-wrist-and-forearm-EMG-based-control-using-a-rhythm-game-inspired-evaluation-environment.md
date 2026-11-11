@@ -10,5 +10,6 @@ pubtype: 'journal'
 venue_short: 'JNE 2024A'
 authors: 'Meredith, R., Eddy, E., Bateman, S. & Scheme, E.'
 doi: 'https://doi.org/10.1088/1741-2552/ad692e'
+thumbnail: '/images/pubs/2024-07-30-Comparing-online-wrist-and-forearm-EMG-based-control-using-a-rhythm-game-inspired-evaluation-environment.jpg'
 ---
 Use [Google Scholar](https://scholar.google.com/scholar?q=Comparing+online+wrist+and+forearm+EMG+based+control+using+a+rhythm+game+inspired+evaluation+environment){:target="_blank"} for full citation

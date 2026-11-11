@@ -42,7 +42,7 @@
 .pub__thumb {
   flex: 0 0 150px;
 
-  img { display: block; width: 150px; border: 1px solid $border-color; }
+  img { display: block; width: 150px; height: auto; max-height: 200px; object-fit: contain; object-position: top left; }
 
   @include breakpoint(max-width $small) { display: none; }
 }

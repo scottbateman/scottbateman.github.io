@@ -10,5 +10,6 @@ pubtype: 'conference'
 venue_short: 'ICIR 2026'
 authors: 'Rahimi, A., Azimyzadeh, A., Mundee, J., Wilcox, K., Jabari, S., Bateman, S., Church, I. & Cao, H.'
 doi: 'https://doi.org/10.1109/icir70631.2026.11628305'
+thumbnail: '/images/pubs/2026-06-01-Towards-a-Scalable-Digital-Twin-Framework-Architecture-for-Port-Resilience-Leveraging-IoT-Edge-AI-and-Data-Driven-Streaming-for-Seamless-Physical-Virtual-Convergence.jpg'
 ---
 Use [Google Scholar](https://scholar.google.com/scholar?q=Towards+a+Scalable+Digital+Twin+Framework+Architecture+for+Port+Resilience:+Leveraging+IoT,+Edge+AI,+and+Data+Driven+Streaming+for+Seamless+Physical+Virtual+Convergence){:target="_blank"} for full citation

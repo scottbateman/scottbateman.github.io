@@ -10,5 +10,6 @@ pubtype: 'conference'
 venue_short: 'DIS 2024'
 authors: 'Manesh, S. A., Zhang, T., Onishi, Y., Hara, K., Bateman, S., Li, J. & Tang, A.'
 doi: 'https://doi.org/10.1145/3643834.3661547'
+thumbnail: '/images/pubs/2024-06-29-How-People-Prompt-Generative-AI-to-Create-Interactive-VR-Scenes.jpg'
 ---
 Use [Google Scholar](https://scholar.google.com/scholar?q=How+People+Prompt+Generative+AI+to+Create+Interactive+VR+Scenes){:target="_blank"} for full citation

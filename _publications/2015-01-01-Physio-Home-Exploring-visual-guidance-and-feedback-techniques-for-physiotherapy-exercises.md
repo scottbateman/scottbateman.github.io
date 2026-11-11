@@ -8,5 +8,6 @@ citation: ' Richard Tang,  Xing-Dong Yang,  Scott Bateman,  Joaquim Jorge,  Anth
 pubtype: 'conference'
 venue_short: 'CHI 2015B'
 authors: 'Tang, R., Yang, X., Bateman, S., Jorge, J. & Tang, A.'
+thumbnail: '/images/pubs/2015-01-01-Physio-Home-Exploring-visual-guidance-and-feedback-techniques-for-physiotherapy-exercises.jpg'
 ---
 Use [Google Scholar](https://scholar.google.com/scholar?q=Physio@+Home:+Exploring+visual+guidance+and+feedback+techniques+for+physiotherapy+exercises){:target="_blank"} for full citation

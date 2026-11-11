@@ -10,5 +10,6 @@ pubtype: 'conference'
 venue_short: 'CHI 2026B'
 authors: 'Eddy, E., Campbell, E. P., Scheme, E. & Bateman, S.'
 doi: 'https://doi.org/10.1145/3772318.3790689'
+thumbnail: '/images/pubs/2026-04-13-Open-Accurate-and-Calibration-Free-Muscle-Computer-Interfaces.jpg'
 ---
 Use [Google Scholar](https://scholar.google.com/scholar?q=Open,+Accurate,+and+Calibration+Free+Muscle+Computer+Interfaces){:target="_blank"} for full citation

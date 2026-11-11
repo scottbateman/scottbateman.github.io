@@ -9,5 +9,6 @@ pubtype: 'conference'
 venue_short: 'ICALT 2008'
 authors: 'Torniai, C., Jovanovic, J., Gasevic, D., Bateman, S. & Hatala, M.'
 doi: 'https://doi.org/10.1109/icalt.2008.20'
+thumbnail: '/images/pubs/2008-01-01-E-learning-meets-the-Social-Semantic-Web.jpg'
 ---
 Use [Google Scholar](https://scholar.google.com/scholar?q=E+learning+meets+the+Social+Semantic+Web){:target="_blank"} for full citation

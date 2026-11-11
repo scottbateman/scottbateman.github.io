@@ -29,7 +29,7 @@ author_profile: true
   {% assign last = post.title | slice: -1 %}
   <li class="pub" id="{{ key }}-{{ n }}">
     <span class="pub__num">{{ n }}.</span>
-    {% if post.thumbnail %}<div class="pub__thumb"><img src="{{ post.thumbnail | relative_url }}" alt="" loading="lazy"></div>{% endif %}
+    {% if post.thumbnail %}<a class="pub__thumb" href="{{ link }}" tabindex="-1" aria-hidden="true"><img src="{{ post.thumbnail | relative_url }}" alt="" loading="lazy"></a>{% elsif key == "conference" or key == "journal" %}<span class="pub__thumb"></span>{% endif %}
     <div class="pub__body">
       {{ post.authors | escape | replace: "Bateman, S.", "<strong>Bateman, S.</strong>" }} ({{ post.date | date: "%Y" }}).
       <a class="pub__title" href="{{ link }}">{{ post.title }}</a>{% unless last == "?" or last == "!" or last == "." %}.{% endunless %}

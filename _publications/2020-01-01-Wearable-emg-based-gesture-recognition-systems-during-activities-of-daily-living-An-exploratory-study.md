@@ -9,5 +9,6 @@ pubtype: 'conference'
 venue_short: 'EMBC 2020B'
 authors: 'Chang, J., Phinyomark, A., Bateman, S. & Scheme, E.'
 doi: 'https://doi.org/10.1109/EMBC44109.2020.9176615'
+thumbnail: '/images/pubs/2020-01-01-Wearable-emg-based-gesture-recognition-systems-during-activities-of-daily-living-An-exploratory-study.jpg'
 ---
 Use [Google Scholar](https://scholar.google.com/scholar?q=Wearable+emg+based+gesture+recognition+systems+during+activities+of+daily+living:+An+exploratory+study){:target="_blank"} for full citation
