@@ -1,0 +1,50 @@
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
+
+{% include base_path %}
+{% assign sections = "conference|Refereed conference papers;journal|Journal articles;chapter|Book chapters;other|Workshops, extended abstracts & reports" | split: ";" %}
+{% assign pubs = site.publications | sort: "date" | reverse %}
+
+<h1>Publications</h1>
+
+<p>See also my <a href="{{ site.author.googlescholar }}">Google Scholar</a> and <a href="{{ site.author.orcid }}">ORCID</a> profiles. Titles link to the published version of each paper.</p>
+
+<p class="pub-toc">
+{% for s in sections %}{% assign key = s | split: "|" | first %}{% assign label = s | split: "|" | last %}{% assign items = pubs | where: "pubtype", key %}<a href="#{{ key }}">{{ label }} ({{ items.size }})</a> {% endfor %}
+</p>
+
+{% for s in sections %}
+{% assign key = s | split: "|" | first %}
+{% assign label = s | split: "|" | last %}
+{% assign items = pubs | where: "pubtype", key %}
+<h2 id="{{ key }}" class="pub-section">{{ label }}</h2>
+<ol class="pub-list">
+{% for post in items %}
+  {% assign n = items.size | minus: forloop.index0 %}
+  {% assign link = post.doi | default: post.paperurl | default: post.pdf | default: post.url %}
+  {% assign last = post.title | slice: -1 %}
+  <li class="pub" id="{{ key }}-{{ n }}">
+    <span class="pub__num">{{ n }}.</span>
+    {% if post.thumbnail %}<div class="pub__thumb"><img src="{{ post.thumbnail | relative_url }}" alt="" loading="lazy"></div>{% endif %}
+    <div class="pub__body">
+      {{ post.authors | escape | replace: "Bateman, S.", "<strong>Bateman, S.</strong>" }} ({{ post.date | date: "%Y" }}).
+      <a class="pub__title" href="{{ link }}">{{ post.title }}</a>{% unless last == "?" or last == "!" or last == "." %}.{% endunless %}
+      <em>{% if key == "conference" %}In Proceedings of {% endif %}{{ post.venue | escape }}</em>.
+      <div class="pub__meta">
+        <span class="pub__tag">{{ post.venue_short }}</span>
+        {% if post.award %}<span class="pub__award">&#9733; {{ post.award }}</span>{% endif %}
+        {% if post.doi %}<a class="pub__link" href="{{ post.doi }}">DOI</a>{% endif %}
+        {% if post.pdf %}<a class="pub__link" href="{{ post.pdf }}">PDF</a>{% endif %}
+        {% if post.video %}<a class="pub__link" href="{{ post.video }}">Video</a>{% endif %}
+        {% if post.code %}<a class="pub__link" href="{{ post.code }}">Code</a>{% endif %}
+        <a class="pub__link" href="https://scholar.google.com/scholar?q={{ post.title | url_encode }}">Scholar</a>
+      </div>
+    </div>
+  </li>
+{% endfor %}
+</ol>
+{% endfor %}

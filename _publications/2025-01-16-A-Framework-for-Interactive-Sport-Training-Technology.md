@@ -6,5 +6,9 @@ date: 2025-01-16
 venue: 'Foundations and Trends® in Human–Computer Interaction'
 paperurl: 'https://doi.org/10.1561/1100000096'
 citation: ' Ian Smith,  Erik Scheme,  Scott Bateman, &quot;A Framework for Interactive Sport Training Technology.&quot; Foundations and Trends® in Human–Computer Interaction, 2025.'
+pubtype: 'journal'
+venue_short: 'F&T-HCI 2025'
+authors: 'Smith, I., Scheme, E. & Bateman, S.'
+doi: 'https://doi.org/10.1561/1100000096'
 ---
 Use [Google Scholar](https://scholar.google.com/scholar?q=A+Framework+for+Interactive+Sport+Training+Technology){:target="_blank"} for full citation

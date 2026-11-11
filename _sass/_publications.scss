@@ -1,0 +1,81 @@
+/* ==========================================================================
+   Publications list (_pages/publications.md)
+   ========================================================================== */
+
+.pub-toc {
+  margin: 0 0 1.5em;
+  font-size: $type-size-6;
+
+  a { display: inline-block; margin-right: 1em; }
+}
+
+.pub-section {
+  margin-top: 2em;
+  padding-bottom: 0.25em;
+  border-bottom: 1px solid $border-color;
+}
+
+.pub-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.pub {
+  display: flex;
+  gap: 1em;
+  align-items: flex-start;
+  padding: 0.75em 0;
+  font-size: 0.9rem;
+  line-height: 1.5;
+  scroll-margin-top: 4em;
+
+  & + & { border-top: 1px dotted $border-color; }
+}
+
+.pub__num {
+  flex: 0 0 2.25em;
+  color: $gray;
+  text-align: right;
+}
+
+.pub__thumb {
+  flex: 0 0 150px;
+
+  img { display: block; width: 150px; border: 1px solid $border-color; }
+
+  @include breakpoint(max-width $small) { display: none; }
+}
+
+.pub__body { flex: 1 1 auto; min-width: 0; }
+
+.pub__title { font-weight: bold; }
+
+.pub__meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4em;
+  margin-top: 0.35em;
+}
+
+.pub__tag,
+.pub__link,
+.pub__award {
+  display: inline-block;
+  padding: 0 0.5em;
+  border: 1px solid $border-color;
+  border-radius: 3px;
+  font-size: 0.7rem;
+  line-height: 1.7;
+  text-decoration: none;
+}
+
+.pub__tag { color: $gray; background: $lighter-gray; }
+
+.pub__link {
+  color: $link-color;
+
+  &:hover { color: #fff; background: $link-color; border-color: $link-color; }
+}
+
+.pub__award { color: #8a5a00; background: #fff4d6; border-color: #f0c96a; }
